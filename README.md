@@ -3,8 +3,8 @@
 A (currently) barebones custom music player for the game [Pony Town](https://pony.town)!
 
 ## WARNING !!! ⚠⚠⚠
-THIS IS AGAINST PONYTOWN TOS AND I AM NOT RESPONCEABLE FOR ANYTHING THAT MIGHT HAPPEN
-THIS SCRIPT IS NOT MALLICIOUS AND DOESNT EFFECT CAMEPLAY AT ALL BUT IS STILL TOS.
+THIS IS AGAINST PONYTOWN TOS AND I AM NOT RESPONSIBLE FOR ANYTHING THAT MIGHT HAPPEN
+THIS SCRIPT IS NOT MALICIOUS AND DOESNT AFFECT CAMEPLAY AT ALL BUT IS STILL TOS.
 
 ## How to use
 Run the script in the console ***OR*** Make a new userscript with the userscript manager of your choice.
