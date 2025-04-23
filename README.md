@@ -12,7 +12,7 @@ Run the script in the console ***OR*** Make a new userscript with the userscript
 
 Click on the "Custom Music" Button in the bottom right and input a url into the text box.
 
-![example](https://duckiz.github.io/NecoDance/example.png)
+![example](https://nikowoo.github.io/NecoDance/example.png)
 
 ## Known issues
 Playing an invalid url and then trying to play a valid one the song doesn't play.
